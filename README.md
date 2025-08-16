@@ -18,7 +18,7 @@
 
 № | Ссылка на проект | Отрасль бизнеса | Описание | Используемые библиотеки | Презентация проекта 
 ---|---|---|---|---|---
-| 2 | [A/B тестирование рекламы]() | Маркетинг - Digital-реклама  | Анализ эффективности изменения расположения рекламы на взаимодействие пользователей. Проверка гипотезы о влиянии нового расположения на кликабельность и конверсию. Предобработка данных, проверка пересечений пользователей между группами, статистический анализ | *pandas, matplotlib.pyplot, seaborn, numpy, statsmodels, scipy.stats, IPython.display, warningsr* | [A/B тестирование рекламы](https://colab.research.google.com/drive/1RDIvP7YbhxhS-hFFYMqo_BzofSh5sbuz?usp=sharing) |
+| 2 | [A/B тестирование рекламы](https://github.com/YulianaOs/Final_project/blob/main/A_B_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.ipynb) | Маркетинг - Digital-реклама  | Анализ эффективности изменения расположения рекламы на взаимодействие пользователей. Проверка гипотезы о влиянии нового расположения на кликабельность и конверсию. Предобработка данных, проверка пересечений пользователей между группами, статистический анализ | *pandas, matplotlib.pyplot, seaborn, numpy, statsmodels, scipy.stats, IPython.display, warningsr* | [A/B тестирование рекламы](https://colab.research.google.com/drive/1RDIvP7YbhxhS-hFFYMqo_BzofSh5sbuz?usp=sharing) |
 
 **Вывод по Финальной работе**
 1. Сравнение ключевых и дополнительных метрик
